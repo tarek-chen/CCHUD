@@ -1,6 +1,6 @@
 //
 //  StringEx.swift
-//  DcoinWallet
+//  CHEN
 //
 //  Created by CHEN on 2018/10/23.
 //  Copyright © 2018 CHEN. All rights reserved.

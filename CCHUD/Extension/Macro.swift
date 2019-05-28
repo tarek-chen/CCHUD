@@ -1,9 +1,9 @@
 //
 //  Macro.swift
-//  EirenEx
+//  CCHUD
 //
 //  Created by E on 2019/5/16.
-//  Copyright © 2019 EirenEx. All rights reserved.
+//  Copyright © 2019 CCHUD. All rights reserved.
 //
 
 import UIKit
