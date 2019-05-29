@@ -75,9 +75,9 @@ extension HUDSettings {
 		var finalHeight = kTopHeight
 		if textHeight > kNaviBarHeight {
 			finalHeight = textHeight + kStatusBarHeight + CCMargin
-			let y = show ? kZero : -finalHeight
-			frame = CGRect(x: kZero, y: y, width: kScreenWidth, height: finalHeight)
 		}
+		let y = show ? kZero : -finalHeight
+		frame = CGRect(x: kZero, y: y, width: kScreenWidth, height: finalHeight)
 	}
 	func setCenterFrame() {
 		

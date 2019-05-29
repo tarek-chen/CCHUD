@@ -48,7 +48,7 @@ class CCHUD: CCBaseHUD {
 	
 	func show(on view: UIView?) {
 		if view == nil {
-			keyWindow.addSubview(self)
+			UIApplication.shared.keyWindow!.addSubview(self)
 		} else {
 			view?.addSubview(self)
 		}
